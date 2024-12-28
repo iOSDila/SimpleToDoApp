@@ -19,7 +19,7 @@ A simple, elegant, and user-friendly To-Do List app built with SwiftUI. This app
 
 ### **Main Interface**
 
-![App Preview](app_image.png)
+![App Preview](app_preview_image.png)
 
 ---
 
